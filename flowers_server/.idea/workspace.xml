@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08499069-d3ec-4f7f-9e51-ffcf8b46e3b8" name="Default Changelist" comment="">
+    <list default="true" id="08499069-d3ec-4f7f-9e51-ffcf8b46e3b8" name="Default Changelist" comment="还原">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +28,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1hLTl3hdO8NkYJWZlFhKNqZ04IN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -26,7 +44,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flowers_ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
@@ -40,7 +64,10 @@
       <option name="presentableId" value="Default" />
       <updated>1599789519725</updated>
       <workItem from="1599789521022" duration="1081000" />
-      <workItem from="1599790617230" duration="1112000" />
+      <workItem from="1599790617230" duration="3202000" />
+      <workItem from="1599794068453" duration="596000" />
+      <workItem from="1599794977944" duration="12000" />
+      <workItem from="1599795011363" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1599791249972</created>
@@ -49,45 +76,117 @@
       <option name="project" value="LOCAL" />
       <updated>1599791249972</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test2">
+      <created>1599791850104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599791850104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1599793404724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599793404724</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1599793602815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599793602815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改内容">
+      <created>1599794354657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599794354657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改内容">
+      <created>1599795243376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599795243376</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改内容2">
+      <created>1599795320584</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599795320584</updated>
+    </task>
+    <task id="LOCAL-00008" summary="还原">
+      <created>1599795407206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599795407206</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="test2" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="修改内容" />
+    <MESSAGE value="修改内容2" />
+    <MESSAGE value="还原" />
+    <option name="LAST_COMMIT_MESSAGE" value="还原" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1599791248879">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1599791849100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599791248879" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599790665428">
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599791849100" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599795188768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599790665428" />
-    <state x="540" y="261" width="285" height="297" key="Github.ShareDialog" timestamp="1599791085759">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599795188768" />
+    <state x="540" y="261" width="285" height="297" key="Github.ShareDialog" timestamp="1599793713346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="540" y="261" width="285" height="297" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599791085759" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1599790761754">
+    <state x="540" y="261" width="285" height="297" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599793713346" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1599795119150">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599790761754" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599791370175">
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599795119150" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599795418893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599791370175" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599795418893" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599791402688">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1599791402688" />
-    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599791315973">
+    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599792509558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599791315973" />
+    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599792509558" />
+    <state x="429" y="151" width="651" height="426" key="git4idea.merge.GitPullDialog" timestamp="1599793793391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="151" width="651" height="426" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1599793793391" />
   </component>
 </project>
