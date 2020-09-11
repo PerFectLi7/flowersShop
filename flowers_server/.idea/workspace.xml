@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49961ca1-9d79-4c77-b160-075a9d3b566f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/docs/All_products.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/Car_Shop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/First_Page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/My_order.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/my_collection.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/register.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/muens/1061006.jpg_220x240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/muens/1064005.jpg_220x240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/muens/home_floor_elder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/muens/home_floor_lover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/muens/home_floor_song.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-F3W1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-F3W1-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-F3W1-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-V1C1-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-V1C1-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-V1C1-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/CC9 Pro-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/CC9 Pro-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/CC9 Pro-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/CC9 Pro-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/CC9 Pro-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/K30 5G-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/K30 5G-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/K30 5G-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/K30 5G-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/K30 5G-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A 65-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A 65-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A 65-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-15jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-ArtTv-65-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-ArtTv-65-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-ArtTv-65-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9e-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-RedMi-K20&amp;pro-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-RedMi-K20&amp;pro-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-RedMi-K20&amp;pro-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/dao/productDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/dao/productDao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/charger-10000mAh.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/charger-10000mAh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/charger-18w.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/charger-18w.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/charger-30w.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/charger-30w.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/protectingMen-Mi-CC9.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/protectingMen-Mi-CC9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/protectingMen-Mi-CC9e.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/protectingMen-Mi-CC9e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/protectingShell-Mi-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/protectingShell-Mi-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/accessory/protectingShell-RedMi-K20&amp;pro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/accessory/protectingShell-RedMi-K20&amp;pro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/AirCondition-F3W1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/AirCondition-F3W1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/AirCondition-V1C1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/AirCondition-V1C1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4A-32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4A-32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4A-65.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4A-65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4C-55.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4C-55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4X-43.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-4X-43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-ArtTv-65.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-ArtTv-65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-E55A.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-E55A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/MiTv-E65A.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/MiTv-E65A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/appliance/Washer-Pro-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/appliance/Washer-Pro-10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/cms_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/cms_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/cms_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/cms_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/cms_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/cms_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/cms_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/cms_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Mi-CC9.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Mi-CC9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-7A.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-7A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-8A.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-8A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-Note8-pro.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-Note8-pro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-Note8.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-Note8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-k30-5G.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-k30-5G.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/Redmi-k30.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/Redmi-k30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-F3W1-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-F3W1-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-V1C1-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/AirCondition-V1C1-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A 65-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A 65-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4A-32-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4C 55-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-4X 43-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-ArtTv-65-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-ArtTv-65-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E55A-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/MiTv-E65A-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 7A-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8A-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi 8A-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8 Pro-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi Note8-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Redmi-k30-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/Washer-Pro-10-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-10000mAh-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-18w-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/charger-30w-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9e-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingMen-Mi-CC9e-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-Mi-9-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-RedMi-K20&amp;pro-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/imgs/phone/picture/protectingShell-RedMi-K20&amp;pro-1.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1hCsmB8SVXrLOa5Di94YGhSN4kG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/docs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MY_File\VUE_Project\store-server\public\docs" />
+      <recent name="E:\MY_File\VUE_Project\store-server\public\imgs" />
+      <recent name="E:\MY_File\VUE_Project\store-server\public\imgs\phone\picture" />
+      <recent name="E:\MY_File\VUE_Project\store-server\public\imgs\accessory" />
+      <recent name="E:\MY_File\VUE_Project\store-server\public\imgs\appliance" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MY_File\VUE_Project\store-server\public\imgs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$/app">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49961ca1-9d79-4c77-b160-075a9d3b566f" name="Default Changelist" comment="" />
+      <created>1599269851222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599269851222</updated>
+      <workItem from="1599269852421" duration="1792000" />
+      <workItem from="1599273669443" duration="521000" />
+      <workItem from="1599350562353" duration="8095000" />
+      <workItem from="1599526567653" duration="36000" />
+      <workItem from="1599526646558" duration="6000" />
+      <workItem from="1599527152704" duration="4885000" />
+      <workItem from="1599714362929" duration="8661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599725178700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599725178700" />
+    <state x="446" y="193" key="#com.intellij.tools.ToolEditorDialog" timestamp="1599725157988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="193" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1599725157988" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599725124721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599725124721" />
+    <state x="576" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1599725158867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="576" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.728@0.0.1366.728" timestamp="1599725158867" />
+    <state x="385" y="0" width="596" height="728" key="find.popup" timestamp="1599721160154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="0" width="596" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599721160154" />
+  </component>
+</project>
